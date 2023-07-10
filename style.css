@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins: 308,488,708, 608 | Playfair+Display:480");
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.news-container{
+    padding-top:50px;
+    width : 80%;
+    padding-left: 100px;
+    /* background-color: antiquewhite; */
+}
+.news-img-description{
+    padding-top: 40px;
+    width: 90%;
+}
+.heading{
+    font-family: 'Playfair Display', serif;
+    font-size: 60px;
+}
+.date{
+    padding-top: 15px;
+    color: #656060;
+}
+.news-image{
+    width: 90%;
+}
+.description {
+    font-size: 22px;
+    width: 90%;
+    /* background-color: black; */
+}
