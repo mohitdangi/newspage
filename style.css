@@ -163,15 +163,14 @@ h1{
       border: 1px solid black;
     }
     
-    .news-icon i {
+    .news-icon img {
       display: inline-block;
-      width: 20px;
-      height: 20px;
-      padding-left: 5px;
-      padding-right: 10px;
-      font-size: larger;
-      color: #11A5AC;
-      margin-right: 10px;
+    width:85px;
+    height:100%;
+    display: block;
+    width: 85px;
+    height: 100%;
+    object-fit: cover;
     }
     
     .news-content {
